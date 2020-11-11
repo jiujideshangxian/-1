@@ -51,6 +51,9 @@ func main() {
 	//3，选择模式
 	//NewCBCEncrypter 分组块加密
 	fmt.Println("待续。。。")
+
+	//二，对数据进行解密
+	//DES三元素：key,data,mode
 }
 
 //明文数据尾部填充
