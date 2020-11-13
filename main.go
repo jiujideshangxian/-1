@@ -15,8 +15,9 @@ func main() {
 		 res++
 		 fmt.Println("冒泡排序的第",res,"次结果为",arr)
 		 fmt.Println("无聊1")
-		 fmt.Println("无聊2")
+		 fmt.Println("无聊2git")
 		 fmt.Println("无聊3")
+		 fmt.Println("无聊4")
 	 }
 
 }
