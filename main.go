@@ -18,6 +18,7 @@ func main() {
 		 fmt.Println("无聊2git")
 		 fmt.Println("无聊3")
 		 fmt.Println("无聊4")
+		 fmt.Println("无聊5")
 	 }
 
 }
