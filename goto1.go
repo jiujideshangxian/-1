@@ -15,6 +15,7 @@ func main() {
 				}
 			}
 			fmt.Printf(" %d \t",  A)
+			fmt.Printf(" %d \t",  A)
 		}
 
 }
