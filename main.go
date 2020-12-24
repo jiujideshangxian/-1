@@ -14,6 +14,7 @@ func main() {
 		 }
 		 res++
 		 fmt.Println("冒泡排序的第",res,"次结果为",arr)
+		 fmt.Println("冒泡排序的第",res,"次结果为",arr)
 
 
 
