@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	arr:=[]int64{10,5,9,6,7}
+	/*arr:=[]int64{10,5,9,6,7}
 	fmt.Println("初始值为",arr)
 	 res:=0
 	 for i:=0;i<len(arr);i++{
@@ -15,12 +15,6 @@ func main() {
 		 res++
 		 fmt.Println("冒泡排序的第",res,"次结果为",arr)
 		 fmt.Println("冒泡排序的第",res,"次结果为",arr)
-
-
-
-
-
-
-	 }
-
+	 }*/
+		fmt.Println("专门提交代码")
 }
